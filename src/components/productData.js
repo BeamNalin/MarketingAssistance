@@ -9,7 +9,7 @@ const productData = [
     Selling_Price: 55,
     Predicted_Price_XGBoost: 54,
     Predicted_Price_DQN: 49,
-    xgboostDiff: 1,
+    xgboostDiff: -1,
     dqnDiff: -6,
     category: "เครื่องดื่ม",
     ROG_Strategy: "Red",
